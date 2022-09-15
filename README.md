@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
-<img align="right" alt="Coding" width"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width"400" src="https://camo.githubusercontent.com/34fa79a9cf1bbe4fa6e23c55b201047706574eeb222c360d9638f34788a130e7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949674735304662374d6930707242432f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genius-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="genius-ayush" /> </p>
 
