@@ -3,11 +3,9 @@
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="center" alt="Coding"  src="https://camo.githubusercontent.com/34fa79a9cf1bbe4fa6e23c55b201047706574eeb222c360d9638f34788a130e7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949674735304662374d6930707242432f67697068792e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=genius-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="genius-ayush" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=genius-ayush" alt="genius-ayush" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ayush48216743" target="blank"><img src="https://img.shields.io/twitter/follow/@ayush48216743?logo=twitter&style=for-the-badge" alt="@ayush48216743" /></a> </p>
+
 
 - 🔭 I’m currently working on **Social Media Application**
 
